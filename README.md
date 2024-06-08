@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AntoPorter
-- 👀 I’m interested in Microsoft Azure and Endpoint Security
+- 👀 I’m interested in Microsoft Azure, Microsoft Intune and Endpoint Security
 - 💞️ I’m looking to collaborate on all things Microsoft Intune and Defender XDR.
 - 📫 How to reach me: https://www.linkedin.com/in/anthonyantoporter/
