@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Anto Porter](https://www.linkedin.com/in/anthonyantoporter/)
+👋 G'Day, I’m [Anto Porter](https://www.linkedin.com/in/anthonyantoporter/)
 
 ```powershell
 # Introduction Script for GitHub Profile
@@ -6,7 +6,7 @@
 # Function to display a humorous introduction
 function Show-Introduction {
     $intro = @"
-    Hello, World! 🌍
+    G'Day! 🌍
     I'm Anto Porter, your friendly neighborhood Cloud Security Architect.
     When I'm not busy wrestling with cyber threats, you can find me:
     - Crafting secure solutions with Microsoft Intune and Defender XDR 🛡️
