@@ -15,6 +15,8 @@ function Show-Introduction {
 
     Fun Fact: My PowerShell scripts have been known to cause confusion and improve productivity. Use with caution! 😄
 
+    Powered by copious amounts of coffee ☕
+
     Feel free to explore my repositories, contribute, or just say hi!
     "@
     Write-Host $intro
