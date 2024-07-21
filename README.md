@@ -1,14 +1,13 @@
-- 👋 Hi, I’m [@AntoPorter](https://www.linkedin.com/in/anthonyantoporter/)
+- 👋 Hi, I’m [Anto Porter](https://www.linkedin.com/in/anthonyantoporter/)
 
 ```powershell
 # Introduction Script for GitHub Profile
-# By: [@AntoPorter](https://www.linkedin.com/in/anthonyantoporter/)
 
 # Function to display a humorous introduction
 function Show-Introduction {
     $intro = @"
     Hello, World! 🌍
-    I'm [@AntoPorter](https://www.linkedin.com/in/anthonyantoporter/), your friendly neighborhood Cloud Security Architect.
+    I'm Anto Porter, your friendly neighborhood Cloud Security Architect.
     When I'm not busy wrestling with cyber threats, you can find me:
     - Crafting secure solutions with Microsoft Intune and Defender XDR 🛡️
     - Navigating the clouds of Azure ☁️
