@@ -1,5 +1,8 @@
 👋 G'Day, I’m [Anto Porter](https://www.linkedin.com/in/anthonyantoporter/)
 
+
+[![AntoPorter's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoporter)](https://github.com/anuraghazra/github-readme-stats)
+
 ```powershell
 # Introduction Script for GitHub Profile
 
