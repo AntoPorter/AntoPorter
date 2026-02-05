@@ -1,8 +1,5 @@
 👋 G'Day, I’m [Anto Porter](https://www.linkedin.com/in/anthonyantoporter/)
 
-
-[![AntoPorter's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoporter&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ```powershell
 # Introduction Script for GitHub Profile
 
@@ -10,7 +7,7 @@
 function Show-Introduction {
     $intro = @"
     G'Day! 🌍
-    I'm Anto Porter, your friendly neighborhood Cloud Security Architect.
+    I'm Anto Porter, a Cloud Security Architect from Perth, WA.
     When I'm not busy wrestling with cyber threats, you can find me:
     - Crafting secure solutions with Microsoft Intune and Defender XDR 🛡️
     - Navigating the clouds of Azure ☁️
